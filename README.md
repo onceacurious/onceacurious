@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onceacurious
 - 👀 I’m interested in Financial and Accounting Programs
-- 🌱 I’m currently learning Python (Django, PySide2/PyQt5, Pandas, Dash Plotly)
+- 🌱 I’m currently learning Python (Django/Flask, PySide2/PyQt5, Pandas, Dash Plotly)
 - 💞️ I’m looking to collaborate on someone who is interested in creating Finance or Accounting System
 - 📫 How to reach me onceacurious@gmail.com
 
