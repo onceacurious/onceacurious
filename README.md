@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @onceacurious
-- 👀 I’m interested in Financial and Accounting Programs
+- 👋 Hi, I’m Francis a.k.a @onceacurious
+- 👀 I’m interested in Financial, Accounting, and Core Business Applications.
 - 🌱 I’m currently learning Python (Django/Flask, PySide2/PyQt5, Pandas, Dash Plotly)
-- 💞️ I’m looking to collaborate on someone who is interested in creating Finance or Accounting System
+- 💞️ I’m looking to collaborate on someone who is interested in creating Finance, Accounting, or Core Business System
 - 📫 How to reach me onceacurious@gmail.com
 
 <!---
