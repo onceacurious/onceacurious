@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Francis a.k.a @onceacurious
-- 👀 I’m interested in Financial, Accounting, and Core Business Applications.
-- 🌱 I’m currently learning Python (Django, PySide2/PyQt5, Pandas), React.js and C# (ASP.NET Core framework including Web API, MVC, Blazor Server and Blazor App)
-- 💞️ I’m looking to collaborate on someone who is interested in creating Finance, Accounting, or Core Business System
+- 👀 I’m interested in Web Applications, API, and Desktop Applications.
+- 🌱 I’m currently a Fullstack Developer @ ANZ Global Services and Operations.
+- 💞️ I’m looking to collaborate with someone interested in Web and Desktop Applications.
 - 📫 How to reach me onceacurious@gmail.com
 - 💻 Mock up website dev.corebuso.com corebuso.com
 
