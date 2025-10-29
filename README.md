@@ -9,7 +9,7 @@ Creating Powerful Web Applications with React.js/React Native and .NET Web AP
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [Developer Portfolio](http://deo.corebuso.com)
 * ✉️  You can contact me at [francisdeo.aurelio@corebuso.com](mailto:francisdeo.aurelio@corebuso.com)
-* 🚀  I'm currently working on [Fund Tracker App](http://fund-tracker.corebuso.com)
+* 🚀  I'm currently working on [Fund Tracker App](http://fund-tracker.corebuso.dev)
 * 🤝  I'm open to collaborating on Mobile and web application development
 
 <a href="https://www.github.com/onceacurious" target="_blank" rel="noreferrer"><img
